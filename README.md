@@ -42,6 +42,15 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
   "reason": "Technische Indikatoren bullish, Sentiment positiv"
 }
 ```
+## ⚠️ Hinweis zur aktuellen Version
+
+> 🔧 **Die Signale werden bereits erfolgreich erzeugt und gespeichert** (siehe unten),  
+> aber **sie werden im Dashboard aktuell noch nicht angezeigt**.  
+> Ich arbeite derzeit aktiv daran, das Frontend mit den Signaldaten korrekt zu verbinden.
+
+### 📊 Aktuelles Dashboard
+
+![Dashboard Screenshot](https://github.com/Alfayad96/gold-trading-bot/raw/main/Dashboard.png)
 
 ---
 
