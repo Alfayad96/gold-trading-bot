@@ -1,7 +1,10 @@
 # 🧠 Gold Trading Bot (In Entwicklung)
 
+🌍 **Live ansehen:** [https://gold-trading-frontend.onrender.com](https://gold-trading-frontend.onrender.com)
+
 Ein modularer, datengestützter Trading-Bot für den Handel mit **XAU/USD (Gold)**.  
 Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktindikatoren**, um präzise Handelssignale zu erzeugen.
+
 
 ---
 
