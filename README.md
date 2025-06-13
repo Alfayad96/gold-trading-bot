@@ -54,10 +54,10 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
   "take_profit": 2348.0,
   "reason": "Technische Indikatoren bullish, Sentiment positiv"
 }
-🔐 Hinweis
+## 🔐 Hinweis
 
 Das Projekt befindet sich noch in der aktiven Entwicklung. Es werden keine realen Trades durchgeführt – es dient nur der Analyse und Signalgebung.
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Mohammad Alfayad
 GitHub: Alfayad96
