@@ -3,8 +3,8 @@
 🌍 **Live ansehen:** [https://gold-trading-frontend.onrender.com](https://gold-trading-frontend.onrender.com)
 
 Ein modularer, datengestützter Trading-Bot für den Handel mit **XAU/USD (Gold)**.  
-Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktindikatoren**, um präzise Handelssignale zu erzeugen.
-
+Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktindikatoren**, um präzise Handelssignale zu erzeugen.  
+🧰 **Technologie-Stack:** Python, Flask, Pandas, NLTK, TA-Lib, REST-API, React (Frontend)
 
 ---
 
@@ -16,6 +16,7 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
 - 🌐 **REST-API** (Flask) zur Abfrage von Handelssignalen
 - 📊 **HTML-Reports** für Analyse-Ergebnisse
 - 🛠️ Deployment-Skripte für Backend, Frontend und Mobile
+- 🐍 **Komplett in Python entwickelt**
 
 ---
 
@@ -30,6 +31,18 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
 
 ---
 
+## ⚠️ Hinweis zur aktuellen Version
+
+> 🔧 **Die Signale werden bereits erfolgreich erzeugt und gespeichert** (siehe oben),  
+> aber **sie werden im Dashboard aktuell noch nicht angezeigt**.  
+> Ich arbeite derzeit aktiv daran, das Frontend mit den Signaldaten korrekt zu verbinden.
+
+### 📊 Aktuelles Dashboard
+
+![Dashboard Screenshot](https://github.com/Alfayad96/gold-trading-bot/raw/main/Dashboard.png)
+
+---
+
 ## 🧪 Beispiel-Antwort (API `/api/signal`)
 
 ```json
@@ -41,33 +54,14 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
   "take_profit": 2348.0,
   "reason": "Technische Indikatoren bullish, Sentiment positiv"
 }
-```
-## ⚠️ Hinweis zur aktuellen Version
+🔐 Hinweis
 
-> 🔧 **Die Signale werden bereits erfolgreich erzeugt und gespeichert** (siehe unten),  
-> aber **sie werden im Dashboard aktuell noch nicht angezeigt**.  
-> Ich arbeite derzeit aktiv daran, das Frontend mit den Signaldaten korrekt zu verbinden.
+Das Projekt befindet sich noch in der aktiven Entwicklung. Es werden keine realen Trades durchgeführt – es dient nur der Analyse und Signalgebung.
+🧑‍💻 Autor
 
-### 📊 Aktuelles Dashboard
-
-![Dashboard Screenshot](https://github.com/Alfayad96/gold-trading-bot/raw/main/Dashboard.png)
-
----
-
-## 🔐 Hinweis
-
-Das Projekt befindet sich noch in der **aktiven Entwicklung**. Es werden keine realen Trades durchgeführt – es dient nur der **Analyse und Signalgebung**.
-
----
-
-## 🧑‍💻 Autor
-
-**Mohammad Alfayad**  
-GitHub: [Alfayad96](https://github.com/Alfayad96)  
-Projektstatus: _Lernprojekt / IHK-Abschlussprojekt_
-
----
-
-## 📝 Lizenz
+Mohammad Alfayad
+GitHub: Alfayad96
+Projektstatus: Lernprojekt / IHK-Abschlussprojekt
+📝 Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
