@@ -28,23 +28,6 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
 ![Deployment Schritt 3](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS3.png)
 ![Signale erzeugt](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS4.png)
 
-### 📈 Generierte Handelssignale
-
-![Signale](docs/screenshots/final_signals.png)
-
----
-
-## 🚀 Installation & Nutzung
-
-```bash
-# Backend starten
-cd backend
-pip install -r requirements.txt
-python src/main.py
-```
-
-API ist erreichbar unter: `http://localhost:10000/api/signal`
-
 ---
 
 ## 🧪 Beispiel-Antwort (API `/api/signal`)
