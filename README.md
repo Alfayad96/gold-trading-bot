@@ -23,9 +23,10 @@ Das Projekt kombiniert **technische Analyse**, **News-Sentiment** und **Marktind
 
 ### ✅ Erfolgreiches Deployment
 
-![Deployment 1](docs/screenshots/deployment_logs_1.png)
-![Deployment 2](docs/screenshots/deployment_logs_2.png)
-![Deployment 3](docs/screenshots/deployment_logs_3.png)
+![Deployment Schritt 1](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS1.png)
+![Deployment Schritt 2](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS2.png)
+![Deployment Schritt 3](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS3.png)
+![Signale erzeugt](https://github.com/Alfayad96/gold-trading-bot/raw/main/LOGS4.png)
 
 ### 📈 Generierte Handelssignale
 
